@@ -169,5 +169,11 @@ DB_HOST=localhost
 DB_PORT=5432
 ```
 ---
+## 🌐 Demo en vivo
+
+API desplegada en Railway:  
+https://task-manager-api-production-5ce7.up.railway.app/api/docs/
+
+---
 
 Desarrollado por **Leonardo de Jesús Azamar Tegoma** · México 🇲🇽  
